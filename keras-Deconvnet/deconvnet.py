@@ -51,7 +51,7 @@ class DConvolution2D(object):
         b = weights[1]
 
         config = layer.get_config()
-        print(config)
+        # print(config)
 
         # Set up_func for DConvolution2D
         nb_up_filter = W.shape[3]
