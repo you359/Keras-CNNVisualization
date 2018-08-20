@@ -11,7 +11,6 @@ import tensorflow as tf
 from tensorflow.python.framework import ops
 
 import numpy as np
-import matplotlib.pyplot as plt
 import cv2
 
 from utils import deprocess_image
