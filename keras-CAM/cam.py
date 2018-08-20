@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     # you must use CNN models which has GAP(Global Average Pooling) or GMP(Global Max Pooling)
     model = ResNet50(weights='imagenet')
-    activation_layer = 'res5c_branch2c'
+    activation_layer = 'activation_49'
 
     img_path = '../images/elephant.jpg'
     img = load_image(path=img_path, target_size=(img_width, img_height))
