@@ -1,7 +1,7 @@
 # Keras-cnnVisualization
 understanding of CNN with various visualization techniques
 
-recently various visualization techniques are proposed for understanding CNN behaviour.
+recently various visualization techniques are proposed for understanding CNN behaviour. <br/>
 below list is some of visualization methods
 
 - Deconvnet [[paper]](https://arxiv.org/pdf/1311.2901.pdf) [[keras-source]](https://github.com/you359/Keras-CNNVisualization/tree/master/keras-Deconvnet)
